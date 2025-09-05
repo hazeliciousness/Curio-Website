@@ -151,13 +151,11 @@ button:hover {
     justify-content: center;
     gap: 40px;
     margin-top: 40px;
-    flex-wrap: wrap;
 }
 
 .leraar img {
     width: 220px;
     height: 180px;
-    object-fit: cover;
     border-radius: 10px;
 }
 
@@ -206,11 +204,12 @@ button:hover {
 
     button {
         width: 100%;
-        max-width: 250px;
+        max-width: 325px;
     }
 
     .text-content-4 {
         padding-top: 60px;
+        padding-bottom: 60px;
     }
 
     .text-content-5 {
