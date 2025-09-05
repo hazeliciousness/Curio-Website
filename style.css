@@ -114,7 +114,7 @@ button:hover {
     padding-top: 50px;
     padding-left: 150px;
     padding-right: 150px;
-    padding-bottom: 125px;
+    padding-bottom: 200px;
 }
 
 .box {
@@ -172,16 +172,6 @@ button:hover {
     border-bottom: #cdb140 2px solid;
     background-color: #cdb140;
 }
-
-    .content-container-4 {
-        grid-template-columns: repeat(2, 1fr);
-        padding: 40px;
-    }
-
-    .content-container-5 {
-        padding: 40px;
-        align-items: center;
-    }
 
 @media (max-width: 768px) {
     .content-container,
